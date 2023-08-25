@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 import codecs
 import os
 
-VERSION = '1.0.0'
+VERSION = '0.0.1'
 DESCRIPTION = 'Tab-completion for inputs'
 with open('README.md', encoding='utf-8') as readme:
     LONG_DESCRIPTION = readme.read()
@@ -20,7 +20,7 @@ setup(
     install_requires=[],
     keywords=['tab', 'completion', 'auto-completion', 'tab-completion', 'input', 'modified input', 'windows', 'easy-to-use'],
     classifiers=[
-        "Development Status :: Released",
+        "Development Status :: 2 - Pre-Alpha",
         "Intended Audience :: Developers",
         "Programming Language :: Python :: 3",
         "Operating System :: Microsoft :: Windows",
