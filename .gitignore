@@ -3,3 +3,4 @@
 /venv
 /build
 /dist
+/pypi_api_token.txt
