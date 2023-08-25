@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 import codecs
 import os
 
-VERSION = '0.0.1'
+VERSION = '0.0.3'
 DESCRIPTION = 'Tab-completion for inputs'
 with open('README.md', encoding='utf-8') as readme:
     LONG_DESCRIPTION = readme.read()
