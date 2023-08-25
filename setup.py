@@ -4,8 +4,9 @@ import os
 
 VERSION = '1.0.0'
 DESCRIPTION = 'Tab-completion for inputs'
-LONG_DESCRIPTION = 'A simple Python library for Windows, which replaces the default input function in order to add the functionality to automatically complete an input using the tab key.'
-
+with open('README.md', encoding='utf-8') as readme:
+    LONG_DESCRIPTION = readme.read()
+    
 # Setting up
 setup(
     name="renput",
