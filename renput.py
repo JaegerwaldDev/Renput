@@ -1,6 +1,13 @@
+"""
+Renput (c) 2023 JaegerwaldDev
+
+A simple Python library, which replaces the default input function in order to add the functionality to automatically complete an input using the tab key.
+
+Renput is licensed under the MIT License.
+"""
+
 import msvcrt
 import sys
-import colorama
 
 def input(prompt="", auto_complete=[]):
     sys.stdout.write(prompt)
