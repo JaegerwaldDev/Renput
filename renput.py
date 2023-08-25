@@ -2,7 +2,7 @@ import msvcrt
 import sys
 import colorama
 
-def renput(prompt="", auto_complete=[]):
+def input(prompt="", auto_complete=[]):
     sys.stdout.write(prompt)
     sys.stdout.flush()
 
