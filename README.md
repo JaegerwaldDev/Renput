@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Renput_ReadMe.png" height="96px"/>
+<img src="https://github.com/JaegerwaldDev/Renput/blob/main/Renput_ReadMe.png" height="96px"/>
 </p>
 <h1 align="center">Renput</h1>
 <h2 align="center">A simple Python library for Windows, which replaces the default input function in order to add the functionality to automatically complete an input using the tab key.</h2>
