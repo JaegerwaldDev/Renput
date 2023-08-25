@@ -36,7 +36,7 @@ auto_complete = [
     "pineapple"
 ]
 
-print("Enter the first few letters of apple, banana, cherry or pinapple to see the functionality of Renput:")
+print("Enter the first few letters of apple, banana, cherry or pinapple,\nthen press tab to see the functionality of Renput:")
 while True:
     input(auto_complete=auto_complete)
 ```
