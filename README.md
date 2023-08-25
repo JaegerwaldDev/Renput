@@ -42,3 +42,4 @@ while True:
 ```
 
 Please report any issues that you find when using the library, but only if you are on the newest version.
+Optionally, you can report new issues on [my discord server](https://discord.gg/MRb8jQf9fU).
