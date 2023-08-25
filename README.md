@@ -1,7 +1,7 @@
 <p align="center">
 <img src="Renput_ReadMe.png" height="96px"/>
 </p>
-<h1 align="center"><strong>Renput</strong> v1.0</h1>
+<h1 align="center">**Renput** v1.0</h1>
 <h2 align="center">A simple Python library, which replaces the default input function in order to add the functionality to automatically complete an input using the tab key.</h2>
 <p align="center">
 <a href="https://github.com/JaegerwaldDev/Renput/blob/master/LICENSE">
