@@ -23,7 +23,7 @@
 ## `input(prompt, auto_complete)`
 
 - `prompt`: The prompt given to the user before the input line.
-- `auto_complete`: A list of auto completions that get input when the `tab ↹` key is pressed
+- `auto_complete`: A list of auto completions that get input when the <kbd>tab ↹</kbd> key is pressed
 
 # Example of use
 ```py
