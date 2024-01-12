@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Renput is discontinued, and no longer kept up to date. Use a different tool.
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/JaegerwaldDev/Renput/main/Renput_ReadMe.png" height="96px"/>
 </p>
